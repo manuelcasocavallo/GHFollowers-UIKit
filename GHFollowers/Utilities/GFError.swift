@@ -12,4 +12,6 @@ enum GFError: String, Error {
     case unableToComplete   = "Unable to complete your request. Please check your internet connection."
     case invalidResponse    = "Invalid response from the server.\nPlease try again."
     case invalidData        = "The data received from the server was invalid.\nPlease try again."
+    case invalidURL         = "The url attached to this user is invalid."
+    case noFollowers        = "This user has no followers. \nWhat a shame! 🙁"
 }
