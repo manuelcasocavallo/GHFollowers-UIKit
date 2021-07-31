@@ -1,4 +1,4 @@
-# GitHub Followers App - UIKit
+# GitHub Followers - UIKit
 
 This app is part of Sean Allen's Take Home Project course.
 
